@@ -13,7 +13,6 @@ import SuccessPage from './pages/success';
 import ProductDetailsPage from './subpages/prodctdetails';
 import Products from './pages/products';
 import Demo from './pages/demo';
-import './App.css';
 
 function App() {
   return (
